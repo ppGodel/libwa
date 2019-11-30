@@ -6,7 +6,7 @@
 #define RV(x)  ( "\x1b[7m" x "\x1b[0m" )
 #define BLK   "  "
 
-#define BORDER 1
+#define BORDER 3
 
 void
 qr_print(char *s)
